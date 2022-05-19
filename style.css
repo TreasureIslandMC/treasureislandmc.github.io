@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    background-color: rgb(243, 243, 243);
+}
+
+.logos {
+    width: 50%;
+    margin: 15% auto;
+}
+
+.logo {
+    margin: auto;
+}
