@@ -1,0 +1,39 @@
+@use "variables";
+header {
+    display: grid;
+    grid-template: repeat(1, 2fr) / repeat(2, 2fr);
+    grid-column: 1 / -1;
+    background-color: rgb(105, 105, 105, 0.4);
+}
+
+navigation {
+    display: grid;
+    grid-template-columns: repeat(3, 3fr);
+    text-align: center;
+    font-weight: 700;
+    text-transform: uppercase;
+    a {
+        font-size: 1.3em;
+        text-decoration: none;
+        margin: auto;
+        padding: 1em;
+    }
+    a,
+    a.active {
+        color: $active-link-color;
+    }
+    a,
+    a:visited {
+        color: rgb(255, 255, 255);
+    }
+    a:hover,
+    a.active {
+        background: rgba(36, 36, 36, 0.4);
+        border-radius: 3px;
+    }
+    .logo {
+        max-width: 30%;
+        margin: auto;
+        display: block;
+    }
+}
