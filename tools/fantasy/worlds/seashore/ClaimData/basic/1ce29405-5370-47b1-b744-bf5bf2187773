@@ -1,0 +1,54 @@
+GriefDefender {
+    accessor-groups=[]
+    accessors=[]
+    builder-groups=[]
+    builders=[]
+    claim-expiration=true
+    claim-name="Panda co."
+    claim-spawn="-3686;71;-2314"
+    claim-type=basic
+    clanData {
+        accessor-tags=[]
+        builder-tags=[]
+        container-tags=[]
+        manager-tags=[]
+    }
+    container-groups=[]
+    containers=[]
+    cuboid=false
+    date-created="2022-02-22T16:00:53.827561326Z"
+    date-last-active="2022-04-14T15:56:37.877187834Z"
+    deny-messages=true
+    economyData {
+        bankTransactionLog=[]
+        for-sale=false
+        forRent=false
+        rent-balances {}
+        rent-break-ability=false
+        rent-max-time=1
+        rent-min-time=1
+        rent-payment-type=DAILY
+        rent-price=1.0
+        rent-strip-nbt=true
+        rentTransactionLog=[]
+        renters=[]
+        renters-delinquent=[]
+        sale-price=0.0
+        tax-balance=0.0
+        taxTransactionLog=[]
+    }
+    enter-title="&c&lEntering;&7&l&nP&8&l&na&7&l&nn&8&l&nd&7&l&na &8&l&nc&7&l&no.;0;3;1"
+    exit-title="&a&lLeaving;&7&l&nP&8&l&na&7&l&nn&8&l&nd&7&l&na &8&l&nc&7&l&no.;0;3;1"
+    greater-boundary-corner="-3393;255;-2097"
+    inherit-parent=true
+    isChestClaim=false
+    isExpired=false
+    lesser-boundary-corner="-3792;0;-2512"
+    manager-groups=[]
+    managers=[]
+    owner-uuid="5dc43393-a5a8-4f27-859e-f564fdc5350a"
+    requires-claim-blocks=true
+    resizable=true
+    sizeRestrictions=true
+    world-uuid="2446fa9b-83e5-42dd-a421-7fb674cc2db5"
+}

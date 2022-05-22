@@ -1,0 +1,56 @@
+GriefDefender {
+    accessor-groups=[]
+    accessors=[]
+    builder-groups=[]
+    builders=[
+        "5b8ef73b-b5bc-4111-9db3-452449b74165",
+        "485bb131-6694-4400-9f2c-46257fa9aede",
+        efe431c5-5abb-4c0d-b4e2-c37a61b91c79
+    ]
+    claim-expiration=true
+    claim-spawn="-4451;76;1700"
+    claim-type=basic
+    clanData {
+        accessor-tags=[]
+        builder-tags=[]
+        container-tags=[]
+        manager-tags=[]
+    }
+    container-groups=[]
+    containers=[]
+    cuboid=false
+    date-created="2022-01-14T12:50:14.864500418Z"
+    date-last-active="2022-04-16T11:48:18.709542245Z"
+    deny-messages=true
+    economyData {
+        bankTransactionLog=[]
+        for-sale=false
+        forRent=false
+        rent-balances {}
+        rent-break-ability=false
+        rent-max-time=1
+        rent-min-time=1
+        rent-payment-type=DAILY
+        rent-price=1.0
+        rent-strip-nbt=true
+        rentTransactionLog=[]
+        renters=[]
+        renters-delinquent=[]
+        sale-price=0.0
+        tax-balance=0.0
+        taxTransactionLog=[]
+    }
+    enter-title="&#04d500&l&n*&#10cf13&l&nW&#1cc925&l&ne&#29c438&l&nl&#35be4a&l&nc&#41b85d&l&no&#4db26f&l&nm&#5aad82&l&ne &#66a794&l&nT&#72a1a7&l&no &#788f94&l&nI&#7f7d82&l&ns&#856b6f&l&ne&#8c595d&l&nn&#92484a&l&ng&#993638&l&na&#9f2425&l&nr&#a61213&l&nd&#ac0000&l&n*;&8&l&oThe Dark Fortress;0;3;1"
+    greater-boundary-corner="-4135;255;1700"
+    inherit-parent=true
+    isChestClaim=false
+    isExpired=false
+    lesser-boundary-corner="-4451;0;1384"
+    manager-groups=[]
+    managers=[]
+    owner-uuid=aea33f97-1ed6-4729-b963-0f324a704eae
+    requires-claim-blocks=true
+    resizable=true
+    sizeRestrictions=true
+    world-uuid="2446fa9b-83e5-42dd-a421-7fb674cc2db5"
+}

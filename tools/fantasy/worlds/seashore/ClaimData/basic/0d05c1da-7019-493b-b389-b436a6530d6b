@@ -1,0 +1,54 @@
+GriefDefender {
+    accessor-groups=[]
+    accessors=[]
+    builder-groups=[]
+    builders=[]
+    claim-expiration=true
+    claim-greeting="I'm greeting you!"
+    claim-spawn="-661;69;-1408"
+    claim-type=basic
+    clanData {
+        accessor-tags=[]
+        builder-tags=[]
+        container-tags=[]
+        manager-tags=[]
+    }
+    container-groups=[]
+    containers=[]
+    cuboid=false
+    date-created="2022-01-14T12:13:04.444489912Z"
+    date-last-active="2022-04-16T16:34:51.657705701Z"
+    deny-messages=true
+    economyData {
+        bankTransactionLog=[]
+        for-sale=false
+        forRent=false
+        rent-balances {}
+        rent-break-ability=false
+        rent-max-time=1
+        rent-min-time=1
+        rent-payment-type=DAILY
+        rent-price=1.0
+        rent-strip-nbt=true
+        rentTransactionLog=[]
+        renters=[]
+        renters-delinquent=[]
+        sale-price=0.0
+        tax-balance=0.0
+        taxTransactionLog=[]
+    }
+    enter-title="Sleekwood's Claim I;[subtitle does not exist right now, add it?];0;3;1"
+    exit-title="Leaving Sleekwood's Claim I;I can't close your game, you have to do it yourself;0;3;1"
+    greater-boundary-corner="-575;255;-1348"
+    inherit-parent=true
+    isChestClaim=false
+    isExpired=false
+    lesser-boundary-corner="-693;0;-1458"
+    manager-groups=[]
+    managers=[]
+    owner-uuid=c68e7704-a7f0-4ea2-9589-9fc7358d7ada
+    requires-claim-blocks=true
+    resizable=true
+    sizeRestrictions=true
+    world-uuid="2446fa9b-83e5-42dd-a421-7fb674cc2db5"
+}
