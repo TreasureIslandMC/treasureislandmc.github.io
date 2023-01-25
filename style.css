@@ -46,7 +46,7 @@ header {
 
 navigation {
     display: grid;
-    grid-template-columns: repeat(3, 3fr);
+    grid-template-columns: repeat(4, 3fr);
     text-align: center;
     font-weight: 700;
     text-transform: uppercase;
