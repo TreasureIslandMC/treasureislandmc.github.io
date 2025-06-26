@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkti_site=self.webpackChunkti_site||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Blog","authorsListPath":"/blog/authors"}')}}]);

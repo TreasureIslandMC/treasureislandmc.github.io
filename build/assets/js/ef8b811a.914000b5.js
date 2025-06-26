@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkti_site=self.webpackChunkti_site||[]).push([[8947],{6600:a=>{a.exports=JSON.parse('{"authors":[{"name":"sarhatabaot","title":"Admiral","page":{"permalink":"/blog/authors/sarhatabaot"},"socials":{"github":"https://github.com/sarhatabaot"},"imageURL":"https://github.com/sarhatabaot.png","key":"sarhatabaot","count":3}]}')}}]);

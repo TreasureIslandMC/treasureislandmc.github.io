@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkti_site=self.webpackChunkti_site||[]).push([[5578],{3206:(e,t,s)=>{s.r(t),s.d(t,{default:()=>n});s(6540);var i=s(2737),r=s(4848);function n(){return(0,r.jsx)(i.A,{title:"Tools",description:"Tools for TreasureIslandMC",children:(0,r.jsx)("div",{style:{padding:"2rem",textAlign:"center"}})})}}}]);
