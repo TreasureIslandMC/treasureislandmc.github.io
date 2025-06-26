@@ -1,19 +1,114 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+minecraft:
+  label: Minecraft
+  permalink: /minecraft
+  description: Posts related to Minecraft gameplay and servers
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+data-recovery:
+  label: Data Recovery
+  permalink: /data-recovery
+  description: Guides for recovering game data and files
+
+server-guide:
+  label: Server Guide
+  permalink: /server-guide
+  description: Tutorials for Minecraft server setup and maintenance
+
+vaults:
+  label: Vaults
+  permalink: /vaults
+  description: Information about player vault systems
+
+homes:
+  label: Homes
+  permalink: /homes
+  description: Content related to player home systems
+
+claims:
+  label: Claims
+  permalink: /claims
+  description: Information about land claim systems
+
+uuid:
+  label: UUID
+  permalink: /uuid
+  description: Posts mentioning Minecraft player UUIDs
+
+server-setup:
+  label: Server Setup
+  permalink: /server-setup
+  description: Guides for configuring Minecraft servers
+
+plugins:
+  label: Plugins
+  permalink: /plugins
+  description: Information about Minecraft server plugins
+
+world-downloads:
+  label: World Downloads
+  permalink: /world-downloads
+  description: Resources for downloading Minecraft worlds
+
+treasure-island:
+  label: Treasure Island
+  permalink: /treasure-island
+  description: Content specific to Treasure Island MC server
+
+announcement:
+  label: Announcement
+  permalink: /announcement
+  description: Important server announcements and updates
+
+thank-you:
+  label: Thank You
+  permalink: /thank-you
+  description: Appreciation posts for community members
+
+community:
+  label: Community
+  permalink: /community
+  description: Posts about our player community
+
+memories:
+  label: Memories
+  permalink: /memories
+  description: Nostalgic content about past server experiences
+
+farewell:
+  label: Farewell
+  permalink: /farewell
+  description: Goodbye messages and closing announcements
+
+website-update:
+  label: Website Update
+  permalink: /website-update
+  description: Posts about website changes and improvements
 
 docusaurus:
   label: Docusaurus
   permalink: /docusaurus
-  description: Docusaurus tag description
+  description: Posts about our Docusaurus-powered website
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+tech-stack:
+  label: Tech Stack
+  permalink: /tech-stack
+  description: Information about our technical infrastructure
+
+markdown:
+  label: Markdown
+  permalink: /markdown
+  description: Content about Markdown formatting and usage
+
+performance:
+  label: Performance
+  permalink: /performance
+  description: Posts about website or server performance
+
+mobile-friendly:
+  label: Mobile Friendly
+  permalink: /mobile-friendly
+  description: Content about mobile accessibility
+
+dark-mode:
+  label: Dark Mode
+  permalink: /dark-mode
+  description: Posts mentioning dark theme functionality

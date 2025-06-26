@@ -1,3 +1,18 @@
+---
+title: Goodbye TreasureIsland Minecraft
+description: It's time to say goodbye...
+slug: goodbye-treasure-island
+authors: [sarhatabaot]
+tags:
+  - announcement
+  - thank-you
+  - community
+  - memories
+  - minecraft
+  - treasure-island
+  - farewell
+---
+
 # It's time to say goodbye...
 
 It's time to say goodbye... TreasureIsland will be shutting down on the 25th of May 2022.

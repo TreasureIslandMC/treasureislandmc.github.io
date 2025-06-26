@@ -3,10 +3,15 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
+const LINKS = {
+  FORUMS: 'https://treasureisland.guildtag.com',
+  DISCORD: 'https://discordapp.com/invite/e4gvhAG',
+  GITHUB: 'https://github.com/treasureislandmc',
+  BLOG: '/blog',
+};
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'TreasureIslandMC',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -15,15 +20,15 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://treasureislandmc.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/TreasureIslandMC/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'TreasureIslandMC', // Usually your GitHub org/user name.
+  projectName: 'TreasureIslandMC', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -47,10 +52,6 @@ const config: Config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -64,21 +65,23 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: false,
+      respectPrefersColorScheme: true,
+    },
+    image: 'img/full-transparent.png',
     navbar: {
-      title: 'My Site',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'TreasureIslandMC',
+        src: 'img/full-transparent.png',
       },
       items: [
         {to: '/blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
-        },
+        {to: '/tools', label: 'Tools (WIP)', position: 'left'},
+        {href: LINKS.FORUMS, label: 'Forums', position: 'left'},
+        {href: LINKS.GITHUB, label: 'Github', position: 'right'},
+        {href: LINKS.DISCORD, label: 'Discord', position: 'right'},
       ],
     },
     footer: {
@@ -88,16 +91,12 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: LINKS.DISCORD,
             },
             {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
+              label: 'Forums',
+              href: LINKS.FORUMS,
             },
           ],
         },
@@ -108,14 +107,10 @@ const config: Config = {
               label: 'Blog',
               to: '/blog',
             },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
           ],
         },
       ],
-      copyright: `Copyright © 2013 - ${new Date().getFullYear()} TreasureIslandMC.`,
+      copyright: `Copyright © 2013 - ${new Date().getFullYear()} TreasureIslandMC`,
     },
     prism: {
       theme: prismThemes.github,
