@@ -3,5 +3,5 @@ import React from 'react';
 import { Redirect } from '@docusaurus/router';
 
 export default function Home() {
-    return <Redirect to="/TreasureIslandMC/blog/goodbye-treasure-island" />;
+    return <Redirect to="/blog/goodbye-treasure-island" />;
 }
