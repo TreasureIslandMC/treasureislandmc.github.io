@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkti_site=self.webpackChunkti_site||[]).push([[4583],{6866:(e,s,t)=>{t.r(s),t.d(s,{default:()=>a});t(6540);var r=t(6347),u=t(4848);function a(){return(0,u.jsx)(r.rd,{to:"/TreasureIslandMC/blog/goodbye-treasure-island"})}}}]);

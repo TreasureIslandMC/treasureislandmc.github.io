@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkti_site=self.webpackChunkti_site||[]).push([[8575],{3547:a=>{a.exports=JSON.parse('{"authors":[{"name":"sarhatabaot","title":"Admiral","page":{"permalink":"/TreasureIslandMC/blog/authors/sarhatabaot"},"socials":{"github":"https://github.com/sarhatabaot"},"imageURL":"https://github.com/sarhatabaot.png","key":"sarhatabaot","count":3}]}')}}]);

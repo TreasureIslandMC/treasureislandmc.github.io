@@ -8,6 +8,7 @@ const LINKS = {
   DISCORD: 'https://discordapp.com/invite/e4gvhAG',
   GITHUB: 'https://github.com/treasureislandmc',
   BLOG: '/blog',
+  TOOLS: '/tools',
 };
 
 const config: Config = {
@@ -77,8 +78,8 @@ const config: Config = {
         src: 'img/full-transparent.png',
       },
       items: [
-        {to: '/blog', label: 'Blog', position: 'left'},
-        {to: '/tools', label: 'Tools (WIP)', position: 'left'},
+        {to: LINKS.BLOG, label: 'Blog', position: 'left'},
+        {to: LINKS.TOOLS, label: 'Tools (WIP)', position: 'left'},
         {href: LINKS.FORUMS, label: 'Forums', position: 'left'},
         {href: LINKS.GITHUB, label: 'Github', position: 'right'},
         {href: LINKS.DISCORD, label: 'Discord', position: 'right'},
@@ -105,7 +106,7 @@ const config: Config = {
           items: [
             {
               label: 'Blog',
-              to: '/blog',
+              to: LINKS.BLOG,
             },
           ],
         },
