@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://treasureislandmc.github.io/TreasureIslandMC/blog</id>
+    <title>TreasureIslandMC Blog</title>
+    <updated>2025-06-26T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://treasureislandmc.github.io/TreasureIslandMC/blog"/>
+    <subtitle>TreasureIslandMC Blog</subtitle>
+    <icon>https://treasureislandmc.github.io/TreasureIslandMC/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Our Blog Got a Tech Upgrade]]></title>
+        <id>https://treasureislandmc.github.io/TreasureIslandMC/blog/2025/06/26/website-updates</id>
+        <link href="https://treasureislandmc.github.io/TreasureIslandMC/blog/2025/06/26/website-updates"/>
+        <updated>2025-06-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Why we rebuilt our static site with Docusaurus and what it means for you.]]></summary>
+        <content type="html"><![CDATA[<p>Hey all! We’ve completely rebuilt our website with <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a>. While the design looks familiar, everything behind the scenes is now more powerful (and easier for us to maintain!).</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-changed-for-you">What’s Changed for You<a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/2025/06/26/website-updates#whats-changed-for-you" class="hash-link" aria-label="Direct link to What’s Changed for You" title="Direct link to What’s Changed for You">​</a></h2>
+<p>✨ <strong>Faster loading</strong><br>
+<!-- -->✨ <strong>Better mobile experience</strong><br>
+<!-- -->✨ <strong>Built-in dark mode</strong> (try the toggle!)<br>
+<!-- -->✨ <strong>Easier to browse content</strong></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="why-we-made-the-switch">Why We Made the Switch<a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/2025/06/26/website-updates#why-we-made-the-switch" class="hash-link" aria-label="Direct link to Why We Made the Switch" title="Direct link to Why We Made the Switch">​</a></h2>
+<p>Previously, every page was hand-coded in <strong>HTML/CSS</strong>, which meant:</p>
+<ul>
+<li>Adding new content required manual formatting</li>
+<li>Consistency was hard to maintain</li>
+<li>Simple updates took more time than they should</li>
+</ul>
+<p>Now with Docusaurus and <strong>Markdown</strong>:</p>
+<ul>
+<li>We write posts in simple text files (no more HTML!)</li>
+<li>All styling stays consistent automatically</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="upcoming-features">Upcoming Features<a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/2025/06/26/website-updates#upcoming-features" class="hash-link" aria-label="Direct link to Upcoming Features" title="Direct link to Upcoming Features">​</a></h2>
+<ul>
+<li>Proper tools to find your claims &amp; homes.</li>
+<li>Image gallery</li>
+<li>More?</li>
+</ul>]]></content>
+        <author>
+            <name>sarhatabaot</name>
+        </author>
+        <category label="Website Update" term="Website Update"/>
+        <category label="Docusaurus" term="Docusaurus"/>
+        <category label="Tech Stack" term="Tech Stack"/>
+        <category label="Markdown" term="Markdown"/>
+        <category label="Performance" term="Performance"/>
+        <category label="Mobile Friendly" term="Mobile Friendly"/>
+        <category label="Dark Mode" term="Dark Mode"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goodbye TreasureIsland Minecraft]]></title>
+        <id>https://treasureislandmc.github.io/TreasureIslandMC/blog/goodbye-treasure-island</id>
+        <link href="https://treasureislandmc.github.io/TreasureIslandMC/blog/goodbye-treasure-island"/>
+        <updated>2022-04-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It's time to say goodbye...]]></summary>
+        <content type="html"><![CDATA[<p>It's time to say goodbye... TreasureIsland will be shutting down on the 25th of May 2022.</p>
+<p>Hey everyone, it's been a wild ride. I (sarhatabaot) joined TreasureIsland in 2013, a year after the server first opened. I've made many memories and met a lot of amazing people.</p>
+<p>I want to thanks everyone who has been a part of this amazing community. And everyone who has helped along the way.</p>
+<p>I want to thank the one and only: OldScurvyDog, for creating this amazing server and running it for the last 7 years. (+3 behind the scenes)</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="id-like-to-thank-our-crew-members">I'd like to thank our crew members:<a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/goodbye-treasure-island#id-like-to-thank-our-crew-members" class="hash-link" aria-label="Direct link to I'd like to thank our crew members:" title="Direct link to I'd like to thank our crew members:">​</a></h2>
+<p>Butterfly01_nl, Maintizer, Donna_M, bperrin, Mr_Pearl, TheGuyWithPie25, Zwiing, CNTGS, Blue_Moon93</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="special-thanks-to">Special thanks to:<a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/goodbye-treasure-island#special-thanks-to" class="hash-link" aria-label="Direct link to Special thanks to:" title="Direct link to Special thanks to:">​</a></h2>
+<p>AngelicArt, JamesMarry, Temros, LordNihilus, Laxxer, HeyItsEd, PoperGirl101, JessieBlade, SirPandaz, AmphibiousFire, Izhape, Valilla, Whispstar, JoePCool, LilyRose_wdw, pacvsghost880, suthekitty, 4cdarth, CptStirling, SirCyrus, Ciaraemma, Hyunnie, Shadowrip, Serinum, BBQJoe, LazyBlitzer, Noxilyn, Xenabean, Trill, Rose, Mari, Jayyy, Alacatraz, FlameyTheFirst, SJONES1997, Amander, LexyTheGhost, Milly, noodlesticks, Hanlin98, darkfantom123, shark, Midgento, SnowKatrina, FieryPanther, LadyMyrabell, Molinious, ShadowRipper, Ryan60248, Harpur, Vanyel, Doomkitty00, btwiateurcat, Gyla, CooperationIsKey, CMarshall, Wasureta, GodLikeJake, Dev, Voidy, kresensha, Hell, Nyroc, Spud, Uniicorn, mego101, iziao16, Luna, boulashnikof, Argossia, Dapper_Irishman, johanny00, Kurusu, Kiwigeddon, kanecraft7, Jan, SnowFall, Snow, Boris_bullrunner, Jarno, Marcel, Speo_, SirLanced, ThePirateThief, Danjam, TheDirtBlock, BruhItsKitty, Druidic, battlefood, Chicken, snekcid, chaosinalunchbox, GreenFlameKing, Little_Baer, Logan, MartyBear91, MoonInMyEyes, SuperNar3k, Seifert, badbill, Mil_Mazkaraz, CurIyFries, TechnicolorBri, Mae, Rum_Rogers, TigerHeart267, armisol, j3keisawesome, ElfLuff, DragonDojo0, Gobroin, JackSparrow, and more!</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="but-what-about-the-worlds">But what about the worlds?<a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/goodbye-treasure-island#but-what-about-the-worlds" class="hash-link" aria-label="Direct link to But what about the worlds?" title="Direct link to But what about the worlds?">​</a></h2>
+<p>The worlds will be available to download for 6 months after the shutdown. A snapshot was taken today on 16th of April.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="and-the-website">And the website?<a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/goodbye-treasure-island#and-the-website" class="hash-link" aria-label="Direct link to And the website?" title="Direct link to And the website?">​</a></h2>
+<p>The website will stay up for as long as we can. I'm unsure about the state of enjin but we have the best plan right now. We have already made a backup of the galleries &amp; the forums images - Can't backup the posts <!-- -->😦<!-- --> We will be creating a backup website (just in case). That will store the galleries pictures and additional information about the server.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="and-discord">And Discord?<a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/goodbye-treasure-island#and-discord" class="hash-link" aria-label="Direct link to And Discord?" title="Direct link to And Discord?">​</a></h2>
+<p>The discord server will remain open forever. You may notice some changes in the way it's structured, channels moving, new channels. A memes channel (probably). As we move to a server focused on everything not just Minecraft. You can post any pictures/screenshots you have from the server in the #ti-memories channel.</p>
+<p><img decoding="async" loading="lazy" alt="spinning emoji" src="https://treasureislandmc.github.io/TreasureIslandMC/assets/images/ti-spin-59a355eb34f0ef0825d12b334d23623e.gif" title=":ti_spin:" width="44" height="44" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>sarhatabaot</name>
+        </author>
+        <category label="Announcement" term="Announcement"/>
+        <category label="Thank You" term="Thank You"/>
+        <category label="Community" term="Community"/>
+        <category label="Memories" term="Memories"/>
+        <category label="Minecraft" term="Minecraft"/>
+        <category label="Treasure Island" term="Treasure Island"/>
+        <category label="Farewell" term="Farewell"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Treasure Island MC - Data Recovery Guide]]></title>
+        <id>https://treasureislandmc.github.io/TreasureIslandMC/blog/2022/24/04/loading-old-saves</id>
+        <link href="https://treasureislandmc.github.io/TreasureIslandMC/blog/2022/24/04/loading-old-saves"/>
+        <updated>2022-04-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guide for recovering your vaults, homes, and claims from Treasure Island MC]]></summary>
+        <content type="html"><![CDATA[<p>Vault data &amp; homes/claim data is available on <a href="https://github.com/TreasureIslandMC/treasureislandmc.github.io" target="_blank" rel="noopener noreferrer">Treasure Island MC GitHub</a>.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="table-of-contents">Table of Contents<a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/2022/24/04/loading-old-saves#table-of-contents" class="hash-link" aria-label="Direct link to Table of Contents" title="Direct link to Table of Contents">​</a></h2>
+<ul>
+<li><a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/2022/24/04/loading-old-saves#vaults">Vaults</a></li>
+<li><a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/2022/24/04/loading-old-saves#homes">Homes</a></li>
+<li><a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/2022/24/04/loading-old-saves#claims">Claims</a></li>
+<li><a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/2022/24/04/loading-old-saves#whats-my-uuid">Finding Your UUID</a></li>
+<li><a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/2022/24/04/loading-old-saves#before-starting">Prerequisites</a></li>
+<li><a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/2022/24/04/loading-old-saves#running-a-1171-server">Server Setup</a></li>
+<li><a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/2022/24/04/loading-old-saves#installing-plugins">Plugin Installation</a></li>
+<li><a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/2022/24/04/loading-old-saves#world-saves">World Downloads</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="vaults">Vaults<a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/2022/24/04/loading-old-saves#vaults" class="hash-link" aria-label="Direct link to Vaults" title="Direct link to Vaults">​</a></h2>
+<p>Your vaults data is located in <code>tools/server/vaults</code>.</p>
+<ol>
+<li>Use <code>CTRL+F</code> with your UUID to download the correct file.</li>
+<li>To read this file you can either:<!-- -->
+<ul>
+<li>Run PlayerVaultsX on a Spigot-based server</li>
+<li>Use <a href="https://www.base64decode.org/" target="_blank" rel="noopener noreferrer">Base64 Decoder</a> to view contents</li>
+</ul>
+</li>
+</ol>
+<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>PlayerVaultsX Information</div><div class="admonitionContent_BuS1"><p>PlayerVaultsX is a paid plugin. Alternatives:</p><ul>
+<li>Use the base64 decoder</li>
+<li>Compile it yourself via <a href="https://github.com/drtshock/PlayerVaults" target="_blank" rel="noopener noreferrer">PlayerVaults GitHub</a></li>
+</ul></div></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="homes">Homes<a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/2022/24/04/loading-old-saves#homes" class="hash-link" aria-label="Direct link to Homes" title="Direct link to Homes">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="fantasy-homes">Fantasy Homes<a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/2022/24/04/loading-old-saves#fantasy-homes" class="hash-link" aria-label="Direct link to Fantasy Homes" title="Direct link to Fantasy Homes">​</a></h3>
+<p><a href="https://raw.githubusercontent.com/TreasureIslandMC/treasureislandmc.github.io/master/tools/fantasy/worlds/homes.json" target="_blank" rel="noopener noreferrer">https://raw.githubusercontent.com/TreasureIslandMC/treasureislandmc.github.io/master/tools/fantasy/worlds/homes.json</a></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="survival-homes">Survival Homes<a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/2022/24/04/loading-old-saves#survival-homes" class="hash-link" aria-label="Direct link to Survival Homes" title="Direct link to Survival Homes">​</a></h3>
+<p><a href="https://raw.githubusercontent.com/TreasureIslandMC/treasureislandmc.github.io/master/tools/survival/worlds/homes.json" target="_blank" rel="noopener noreferrer">https://raw.githubusercontent.com/TreasureIslandMC/treasureislandmc.github.io/master/tools/survival/worlds/homes.json</a></p>
+<p>Use <code>CTRL+F</code> to find your homes list in either file.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="claims">Claims<a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/2022/24/04/loading-old-saves#claims" class="hash-link" aria-label="Direct link to Claims" title="Direct link to Claims">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="fantasy-claims">Fantasy Claims<a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/2022/24/04/loading-old-saves#fantasy-claims" class="hash-link" aria-label="Direct link to Fantasy Claims" title="Direct link to Fantasy Claims">​</a></h3>
+<ol>
+<li>Go to <a href="https://github.com/TreasureIslandMC/treasureislandmc.github.io/tree/master/tools/fantasy/worlds" target="_blank" rel="noopener noreferrer">Fantasy Worlds</a></li>
+<li>Choose the world</li>
+<li>Search for your UUID using <code>CTRL+F</code></li>
+</ol>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="survival-claims">Survival Claims<a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/2022/24/04/loading-old-saves#survival-claims" class="hash-link" aria-label="Direct link to Survival Claims" title="Direct link to Survival Claims">​</a></h3>
+<p><a href="https://github.com/TreasureIslandMC/treasureislandmc.github.io/blob/master/tools/survival/worlds/claims.json" target="_blank" rel="noopener noreferrer">https://github.com/TreasureIslandMC/treasureislandmc.github.io/blob/master/tools/survival/worlds/claims.json</a></p>
+<p>Use <code>CTRL+F</code> to find your claims.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-my-uuid">What's my UUID?<a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/2022/24/04/loading-old-saves#whats-my-uuid" class="hash-link" aria-label="Direct link to What's my UUID?" title="Direct link to What's my UUID?">​</a></h2>
+<p>You can use:</p>
+<ul>
+<li><a href="https://namemc.com/" target="_blank" rel="noopener noreferrer">NameMC</a></li>
+<li><a href="https://api.minetools.eu/uuid/" target="_blank" rel="noopener noreferrer">MineTools UUID Lookup</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="before-starting">Before Starting<a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/2022/24/04/loading-old-saves#before-starting" class="hash-link" aria-label="Direct link to Before Starting" title="Direct link to Before Starting">​</a></h2>
+<p>Make sure you have Java installed. If you want to compile PlayerVaultX, install a JDK as well.</p>
+<ul>
+<li><a href="https://adoptium.net/temurin/releases?version=8" target="_blank" rel="noopener noreferrer">Java 8</a></li>
+<li><a href="https://adoptium.net/temurin/releases?version=17" target="_blank" rel="noopener noreferrer">Java 17</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="running-a-1171-server">Running a 1.17.1 Server<a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/2022/24/04/loading-old-saves#running-a-1171-server" class="hash-link" aria-label="Direct link to Running a 1.17.1 Server" title="Direct link to Running a 1.17.1 Server">​</a></h2>
+<p>We ran the latest version of Paper for 1.17.1 (a modified version called Purpur). For loading saves, this doesn't matter.</p>
+<ol>
+<li>Download server: <a href="https://api.papermc.io/v2/projects/paper/versions/1.17.1/builds/411/downloads/paper-1.17.1-411.jar" target="_blank" rel="noopener noreferrer">Paper 1.17.1 Build 411</a></li>
+<li>Place in an empty folder</li>
+<li>Create <code>start.bat</code> file with these contents:</li>
+</ol>
+<div class="language-bat codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-bat codeBlock_bY9V thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#F8F8F2"><span class="token plain">@echo off</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">java -Xms4G -Xmx4G -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40^ -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true -jar paper-1.17.1-411.jar -nogui </span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">pause</span><br></span></code></pre></div></div>
+<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>RAM Allocation</div><div class="admonitionContent_BuS1"><p><code>-Xms4G -Xmx4G</code> sets RAM allocation. Adjust to <code>2G</code> if needed.</p></div></div>
+<ol start="4">
+<li>Run the server, then edit <code>eula.txt</code> to set <code>eula=true</code>.</li>
+</ol>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="restarting-your-server">Restarting Your Server<a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/2022/24/04/loading-old-saves#restarting-your-server" class="hash-link" aria-label="Direct link to Restarting Your Server" title="Direct link to Restarting Your Server">​</a></h2>
+<ol>
+<li>Type <code>stop</code> in console</li>
+<li>Run <code>start.bat</code> again</li>
+</ol>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="installing-plugins">Installing Plugins<a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/2022/24/04/loading-old-saves#installing-plugins" class="hash-link" aria-label="Direct link to Installing Plugins" title="Direct link to Installing Plugins">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="multiverse-core">Multiverse Core<a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/2022/24/04/loading-old-saves#multiverse-core" class="hash-link" aria-label="Direct link to Multiverse Core" title="Direct link to Multiverse Core">​</a></h3>
+<p>For world switching: <a href="https://dev.bukkit.org/projects/multiverse-core" target="_blank" rel="noopener noreferrer">Download Multiverse</a></p>
+<ol>
+<li>Place in <code>plugins</code> folder</li>
+<li>Restart server</li>
+</ol>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="essentialsx">EssentialsX<a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/2022/24/04/loading-old-saves#essentialsx" class="hash-link" aria-label="Direct link to EssentialsX" title="Direct link to EssentialsX">​</a></h3>
+<p>For teleportation and home management: <a href="https://essentialsx.net/downloads.html" target="_blank" rel="noopener noreferrer">Download EssentialsX</a> (Core version is sufficient)</p>
+<ol>
+<li>Place in <code>plugins</code> folder</li>
+<li>Restart server</li>
+</ol>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="playervaultsx">PlayerVaultsX<a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/2022/24/04/loading-old-saves#playervaultsx" class="hash-link" aria-label="Direct link to PlayerVaultsX" title="Direct link to PlayerVaultsX">​</a></h3>
+<p>For accessing your vaults:</p>
+<ol>
+<li>Compile from source (see below)</li>
+<li>Place in <code>plugins</code> folder</li>
+<li>Restart server</li>
+</ol>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="compiling-playervaultsx">Compiling PlayerVaultsX<a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/2022/24/04/loading-old-saves#compiling-playervaultsx" class="hash-link" aria-label="Direct link to Compiling PlayerVaultsX" title="Direct link to Compiling PlayerVaultsX">​</a></h2>
+<p>Source: <a href="https://github.com/drtshock/PlayerVaults" target="_blank" rel="noopener noreferrer">PlayerVaults GitHub</a></p>
+<ol>
+<li>Install <a href="https://maven.apache.org/download.cgi" target="_blank" rel="noopener noreferrer">Maven</a></li>
+<li>Run:<!-- -->
+<div class="language-sh codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-sh codeBlock_bY9V thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#F8F8F2"><span class="token plain">mvn clean package</span><br></span></code></pre></div></div>
+</li>
+</ol>
+<h1>World Saves</h1>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="survival-worlds">Survival Worlds<a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/2022/24/04/loading-old-saves#survival-worlds" class="hash-link" aria-label="Direct link to Survival Worlds" title="Direct link to Survival Worlds">​</a></h2>
+<ul>
+<li><a href="https://e.pcloud.link/publink/show?code=XZ8RiMZPnPF6Ug0xqua67oN3nMPWfloijK7" target="_blank" rel="noopener noreferrer">Castaway</a></li>
+<li><a href="https://e.pcloud.link/publink/show?code=XZSmrMZUTO0Fi9jUvkz9l6erjYbKVleTgHy" target="_blank" rel="noopener noreferrer">Scabb</a></li>
+<li><a href="https://e.pcloud.link/publink/show?code=XZ0ciMZjLBdc8mfmAjruVkbCnmagjWv3APV" target="_blank" rel="noopener noreferrer">Spittle</a></li>
+<li><a href="https://e.pcloud.link/publink/show?code=XZlhcMZ1BIjuz9434z1Mvw72DFgpR1avDuk" target="_blank" rel="noopener noreferrer">Scurvy</a></li>
+<li><a href="https://e.pcloud.link/publink/show?code=XZ7LiMZP5qmgPvOdtmcAmei2BlOq5QlukVX" target="_blank" rel="noopener noreferrer">TBR (Privatet)</a></li>
+<li><a href="https://e.pcloud.link/publink/show?code=XZeRiMZ6W0Ukzg0v5RH827KUOzWa0Qe5mpk" target="_blank" rel="noopener noreferrer">TBR (Privatef)</a></li>
+<li><a href="https://e.pcloud.link/publink/show?code=XZJLiMZABnvxtkJWOfteSVOg89pc5fF3xo7" target="_blank" rel="noopener noreferrer">TBR (Privatez)</a></li>
+<li><a href="https://e.pcloud.link/publink/show?code=XZ5loMZiY3yxUDhcfjuJCCzjo1ukmuWs8dk" target="_blank" rel="noopener noreferrer">Tortuga</a></li>
+<li><a href="https://e.pcloud.link/publink/show?code=XZFloMZ0TYvve6iWFFotOnARaeiuYCxFDt7" target="_blank" rel="noopener noreferrer">Pinch</a></li>
+<li><a href="https://e.pcloud.link/publink/show?code=XZHloMZQ1vxzpu86Oh4BhOegdmG97ESGWYy" target="_blank" rel="noopener noreferrer">Monkey</a></li>
+<li><a href="https://e.pcloud.link/publink/show?code=XZzloMZkmiGuNawezHwSNhCIRvEFbVf7GJV" target="_blank" rel="noopener noreferrer">Jerkbait</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="fantasy-worlds">Fantasy Worlds<a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/2022/24/04/loading-old-saves#fantasy-worlds" class="hash-link" aria-label="Direct link to Fantasy Worlds" title="Direct link to Fantasy Worlds">​</a></h2>
+<ul>
+<li><a href="https://e.pcloud.link/publink/show?code=XZpjkTZIr24PSSHKu5cpXX2oqSbYLL1n2BV" target="_blank" rel="noopener noreferrer">Treasure</a></li>
+<li><a href="https://e.pcloud.link/publink/show?code=XZAzyTZJekUIS5EFeFJguNJH2qDHVznGoU7" target="_blank" rel="noopener noreferrer">Skull</a></li>
+<li><a href="https://e.pcloud.link/publink/show?code=XZRjkTZ6Qp4nNhNYSufkoRI1daUvQGiVbhk" target="_blank" rel="noopener noreferrer">Resort</a></li>
+<li><a href="https://e.pcloud.link/publink/show?code=XZ4jkTZ29wnuybLGuh9l3VRrNIRluw26hV0" target="_blank" rel="noopener noreferrer">Paradise</a></li>
+<li><a href="https://e.pcloud.link/publink/show?code=XZQjkTZKjSJJIWIzzJMocd8bS1HkzHWiqfX" target="_blank" rel="noopener noreferrer">Plots</a></li>
+<li><a href="https://e.pcloud.link/publink/show?code=XZSjkTZotPVEiIeezyIHLc1FWeJnmmBtxBV" target="_blank" rel="noopener noreferrer">Seashore</a></li>
+<li><a href="https://e.pcloud.link/publink/show?code=XZVjkTZxV51PGdjtISwbdBfk4x6s5fjclSk" target="_blank" rel="noopener noreferrer">Tortuga</a></li>
+<li><a href="https://e.pcloud.link/publink/show?code=XZ5jkTZzkkAqPQ5aTprEx971vX705giT0tX" target="_blank" rel="noopener noreferrer">Scurvy</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="lobby-worlds">Lobby Worlds<a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/2022/24/04/loading-old-saves#lobby-worlds" class="hash-link" aria-label="Direct link to Lobby Worlds" title="Direct link to Lobby Worlds">​</a></h2>
+<ul>
+<li><a href="https://e.pcloud.link/publink/show?code=XZjQiMZq3PNFRGH6V01C4W3AqMOEJoL8gVV" target="_blank" rel="noopener noreferrer">Lobby 2019</a></li>
+<li><a href="https://e.pcloud.link/publink/show?code=XZBQiMZRMQNtVYdwUyoLVExM0u125Q8ElPk" target="_blank" rel="noopener noreferrer">Lobby 2022</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="skyblockskygrid">Skyblock/Skygrid<a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/2022/24/04/loading-old-saves#skyblockskygrid" class="hash-link" aria-label="Direct link to Skyblock/Skygrid" title="Direct link to Skyblock/Skygrid">​</a></h2>
+<ul>
+<li><a href="https://e.pcloud.link/publink/show?code=XZfjkTZwphuisfXoCViBi7Kattfu5Kgx6K7" target="_blank" rel="noopener noreferrer">Skyblock</a></li>
+<li><a href="https://e.pcloud.link/publink/show?code=XZDjkTZnzMGHgpSciXy9fYycnzmBysGUzOk" target="_blank" rel="noopener noreferrer">Skygrid</a></li>
+<li><a href="https://e.pcloud.link/publink/show?code=XZejkTZjR3lS9TIWX412C5jg3rBD0Rc8jF7" target="_blank" rel="noopener noreferrer">Skygrid (Old)</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="vanilla-ish"><a href="https://e.pcloud.link/publink/show?code=XZjy5TZMwTF5PsHQ1J5ux3GbRxeuXkjtT97" target="_blank" rel="noopener noreferrer">Vanilla-ish</a><a href="https://treasureislandmc.github.io/TreasureIslandMC/blog/2022/24/04/loading-old-saves#vanilla-ish" class="hash-link" aria-label="Direct link to vanilla-ish" title="Direct link to vanilla-ish">​</a></h2>]]></content>
+        <author>
+            <name>sarhatabaot</name>
+        </author>
+        <category label="Minecraft" term="Minecraft"/>
+        <category label="Data Recovery" term="Data Recovery"/>
+        <category label="Server Guide" term="Server Guide"/>
+        <category label="Vaults" term="Vaults"/>
+        <category label="Homes" term="Homes"/>
+        <category label="Claims" term="Claims"/>
+        <category label="UUID" term="UUID"/>
+        <category label="Server Setup" term="Server Setup"/>
+        <category label="Plugins" term="Plugins"/>
+        <category label="World Downloads" term="World Downloads"/>
+        <category label="Treasure Island" term="Treasure Island"/>
+    </entry>
+</feed>

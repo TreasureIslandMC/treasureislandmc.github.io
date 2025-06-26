@@ -1,0 +1,95 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  /* Base colors from your palette */
+  --color-mustard: #FAD54F;
+  --color-mustard-2: #FAD550;
+  --color-mustard-3: #F5CF49;
+  --color-maize: #FBE567;
+  --color-naples-yellow: #F7DB5E;
+
+  /* Primary color - using a dark teal that complements yellow */
+  --ifm-color-primary: #1f655a;
+  --ifm-color-primary-dark: #1a594f;
+  --ifm-color-primary-darker: #18544a;
+  --ifm-color-primary-darkest: #14453d;
+  --ifm-color-primary-light: #2e8b7d;
+  --ifm-color-primary-lighter: #309184;
+  --ifm-color-primary-lightest: #36a393;
+
+  /* Using your yellows for secondary/accent colors */
+  --ifm-color-secondary: var(--color-mustard-3);
+  --ifm-color-success: #28a745;
+  --ifm-color-info: #17a2b8;
+  --ifm-color-warning: var(--color-naples-yellow);
+  --ifm-color-danger: #dc3545;
+
+  /* Text and link colors */
+  --ifm-font-color-base: #222;
+  --ifm-heading-color: #1a1a1a;
+  --ifm-link-color: var(--ifm-color-primary);
+  --ifm-link-hover-color: var(--ifm-color-primary-light);
+
+  /* Enhanced navbar variables for better visibility */
+  --ifm-navbar-link-color: #2a4365; /* Darker blue-gray for better contrast */
+  --ifm-navbar-link-hover-color: var(--color-mustard-3);
+  --ifm-navbar-link-active-color: #2a4365; /* Same as link color */
+  --ifm-navbar-background-color: #ffffff;
+  --ifm-navbar-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+
+  /* Active state indicators */
+  --ifm-menu-color-active: var(--ifm-color-primary);
+  --ifm-menu-color-background-active: rgba(250, 213, 79, 0.1);
+  --ifm-toc-link-color: var(--ifm-color-primary);
+  --ifm-toc-link-active-color: var(--color-mustard-3);
+
+  /* Background highlights using your yellows */
+  --docusaurus-highlighted-code-line-bg: rgba(250, 213, 79, 0.1);
+  --ifm-background-color: #ffffff;
+  --ifm-background-surface-color: #f8f9fa;
+  --ifm-card-background-color: #ffffff;
+  --ifm-hero-background-color: var(--ifm-background-color);
+}
+
+/* Dark mode - yellow-heavy theme */
+[data-theme='dark'] {
+  /* Shift primary to your mustard palette */
+  --ifm-color-primary: var(--color-mustard);
+  --ifm-color-primary-dark: var(--color-mustard-3);
+  --ifm-color-primary-darker: #e6c245;
+  --ifm-color-primary-darkest: #d2b13f;
+  --ifm-color-primary-light: var(--color-maize);
+  --ifm-color-primary-lighter: var(--color-naples-yellow);
+  --ifm-color-primary-lightest: #fdf4b8;
+
+  /* Text colors */
+  --ifm-font-color-base: rgba(255, 255, 255, 0.87);
+  --ifm-heading-color: #ffffff;
+  --ifm-link-color: var(--color-mustard);
+  --ifm-link-hover-color: var(--color-maize);
+
+  /* Navbar */
+  --ifm-navbar-link-color: rgba(255, 255, 255, 0.9);
+  --ifm-navbar-link-hover-color: var(--color-maize);
+  --ifm-navbar-link-active-color: white;
+  --ifm-navbar-background-color: #1e1e1e;
+  --ifm-navbar-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+
+  /* Active states */
+  --ifm-menu-color-active: var(--color-maize);
+  --ifm-menu-color-background-active: rgba(250, 213, 79, 0.15);
+  --ifm-toc-link-color: rgba(255, 255, 255, 0.7);
+  --ifm-toc-link-active-color: var(--color-maize);
+
+  /* Backgrounds */
+  --ifm-background-color: #1a1a1a;
+  --ifm-background-surface-color: #242424;
+  --ifm-card-background-color: #242424;
+  --ifm-hero-background-color: var(--ifm-background-surface-color);
+  --docusaurus-highlighted-code-line-bg: rgba(250, 213, 79, 0.2);
+}
